@@ -38,9 +38,9 @@
 
  이를 통해, 한 선수의 시즌 득점을 산출하는데에 있어 양적지표가 질적지표보다 중요하다는 생각을 하게 되었다. 한편, 한 커뮤니티에서 질적지표 중 np:G-xG보다 G/xG가 적절하다는 의견도 있었다. 피드백을 종합해 질적지표를 조정하고 지표의 활용을 고민했다. 
 
-질적지표(FI, Finishing Indicator) : G/Sh, SoT%, G/xG, npxG/Sh (OUT : G/SoT, np:G-xG, IN : G/Sh, G/xG)
+* 질적지표(FI, Finishing Indicator) : G/Sh, SoT%, G/xG, npxG/Sh (OUT : G/SoT, np:G-xG, IN : G/Sh, G/xG)
 
-양적지표(EI, Environmental Indicator) : Sh/90, Att_Pen, Dist, Targ_90 (OUT : SoT/90, IN : Sh/90)
+* 양적지표(EI, Environmental Indicator) : Sh/90, Att_Pen, Dist, Targ_90 (OUT : SoT/90, IN : Sh/90)
 
  질적지표에서 np:G-xG를 빼고, G/xG를 넣었다. G/Sh도 고려했지만 G/xG가 더욱 유효하다고 생각했다. 
  
