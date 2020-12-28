@@ -19,7 +19,7 @@
 이름|xG|GCA|SCA
 -----|-----|-----|-----
 케빈 데 브라위너|6.2|12|76
-브루노 페르난데스||6.9|13|69
+브루노 페르난데스|6.9|13|69
 
 *GCA : Goal Creating Action / SCA : Shoot Creating Action 
 
